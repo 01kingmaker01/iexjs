@@ -1,3 +1,19 @@
+# I am using IEXJS package with TypeScript. I just want to ask if there are any types for these package
+```bash
+npm i --save @types/iexjs
+
+```
+
+OR 
+Any other custom types file
+
+```bash
+types.d.ts file
+```
+
+
+
+
 # <img src="https://raw.githubusercontent.com/iexcloud/iexjs/main/docs/img/icon.png" width="300">
 
 *iex.js* (iexjs) is a client library for querying IEX Cloud data and operating on Apperate resources, such as data, datasets, data sources, and more. The easy-to-use JavaScript methods wrap requests to [Apperate endpoints](https://iexcloud.io/docs/) and [IEX Cloud legacy endpoints](https://iexcloud.io/docs/api/), so you can tap into Core Data and permissioned datasets, and operate on Apperate resources.
